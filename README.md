@@ -15,7 +15,7 @@
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact: I started coding when I was just 16 years old and have been in love with it ever since!
+⚡ Fun fact: Besides coding, I'm also a huge fan of science fiction novels and movies.
 
 <!---
 TharuDB/TharuDB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
