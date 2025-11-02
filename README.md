@@ -1,4 +1,4 @@
-# Hi there, I'm Tharushi Bandara! 👩🏻👋
+# Hi there, I'm Tharushi Bandara..! 👩🏻👋
 
 👀 I’m interested in software design, development, and testing. I'm passionate about learning new technologies and improving my coding skills.
 
