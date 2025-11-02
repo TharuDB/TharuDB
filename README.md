@@ -1,4 +1,4 @@
-# HI...! 👩🏻👋
+# Hi there, I'm Tharushi Bandara! 👩🏻👋
 
 👀 I’m interested in software design, development, and testing. I'm passionate about learning new technologies and improving my coding skills.
 
@@ -9,6 +9,9 @@
 - Python
 
 💞️ I’m looking to collaborate on open-source projects, particularly those focused on web development and software testing.
+
+📫 How to reach me: 
+- Email: tdbandara21@gmail.com
 
 😄 Pronouns: She/Her
 
